@@ -2,9 +2,9 @@
 layout: post
 title: "Membenci Waktu"
 date: 2016-05-30
-categories: opinion
+categories: story
 ---
-Tik...tik...tik.. aku benci dengan waktu, ia tak pernah menungguku, tak pernah menunggu siapapun, tik..tik..tik.. aku benci ketika melihat waktu, ia membuatku terburu - buru dan panik, tik...tik...tik aku benci ketika mengikuti waktu, ia mengingatkanku kepada semua tanggung jawab yang belum terselesaikan, tik...tik...tik... aku benci ketika bergantung pada waktu, ia mendekatkanku kepada akhir hayatku. **"Time waits for no one"** kalimat yang aku temukan di sebuah movie science fiction romance yang berjudul The Girl Who Leapt Through Time, iya benar waktu tidak menunggu siapapun, ia tidak peduli kalian seorang presiden, polisi, dokter, profesor, orang biasa, anak - anak, ia akan terus berjalan dan berlari tanpa pernah berhenti.
+Tik...tik...tik.. aku benci dengan waktu, ia tak pernah menungguku, tak pernah menunggu siapapun, tik..tik..tik.. aku benci ketika melihat waktu, ia membuatku terburu - buru dan panik, tik...tik...tik aku benci ketika mengikuti waktu<!--more-->, ia mengingatkanku kepada semua tanggung jawab yang belum terselesaikan, tik...tik...tik... aku benci ketika bergantung pada waktu, ia mendekatkanku kepada akhir hayatku. **"Time waits for no one"** kalimat yang aku temukan di sebuah movie science fiction romance yang berjudul The Girl Who Leapt Through Time, iya benar waktu tidak menunggu siapapun, ia tidak peduli kalian seorang presiden, polisi, dokter, profesor, orang biasa, anak - anak, ia akan terus berjalan dan berlari tanpa pernah berhenti.
 
 Ia berjalan sangat jauh hingga seringkali kita membenci, memaki, tapi ia tidak peduli. Setiap jejaknya meninggalkan kita sebuah kenangan yang biasa kita sebut sebagai "masa lalu". Aku benci kepada waktu, ia tidak bisa diminta untuk berjalan lebih lambat, berjalan lebih cepat atau bahkan berhenti, yah ilmuan berkata "bergeraklah dengan kecepatan cahaya, maka engkau akan dapat mengejar waktu", dibutuhkan usaha sebegitu besarkah untuk memperlambat langkahmu?.
 

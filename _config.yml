@@ -23,12 +23,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anggadarkprince
 github_username:  anggadarkprince
 timezone: Asia/Jakarta
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+sass:
+    sass_dir: _sass
+    style: compressed
+pages:
+  - hire.md
+  - about.md
+
+

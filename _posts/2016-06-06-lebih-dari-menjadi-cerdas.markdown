@@ -3,8 +3,9 @@ layout: post
 title: "Lebih dari menjadi cerdas"
 date: 2016-06-06
 categories: opinion
+excerpt_separator: <!--more-->
 ---
-Dalam hidup ini aku membagi jalan hidup seseorang yang berkaitan dengan usaha menjadi 4 golongan. Pertama adalah orang yang pintar dan pekerja keras, kedua pintar yang malas, ketiga bodoh tapi pekerja keras dan keempat bodoh sekaligus malas. Masing - masing orang yang pintar atau bodoh dan pekerja keras atau malas jika aku bagi lagi berdasarkan kesuksesannya juga akan menjadi 4 golongan, yaitu berusaha dan kemudian berhasil (berbanding lurus positif), berusaha dan gagal (berbanding terbalik positif), malas dan berhasil (berbanding terbalik negatif), terakhir malas dan gagal (berbanding lurus negatif).
+Dalam hidup ini aku membagi jalan hidup seseorang yang berkaitan dengan usaha menjadi 4 golongan. Pertama adalah orang yang pintar dan pekerja keras, kedua pintar yang malas, ketiga bodoh tapi pekerja keras dan keempat bodoh sekaligus malas. <!--more-->Masing - masing orang yang pintar atau bodoh dan pekerja keras atau malas jika aku bagi lagi berdasarkan kesuksesannya juga akan menjadi 4 golongan, yaitu berusaha dan kemudian berhasil (berbanding lurus positif), berusaha dan gagal (berbanding terbalik positif), malas dan berhasil (berbanding terbalik negatif), terakhir malas dan gagal (berbanding lurus negatif).
 
 Yah itu adalah hidup, bahkan terkadang kerja keras dan kepintaran seseorang tidak mampu menjawab apa arti kesuksesan dalam hidup ini.
 

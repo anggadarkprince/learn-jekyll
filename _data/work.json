@@ -1,0 +1,56 @@
+[
+  {
+    "project": 1,
+    "title": "Jagamana",
+    "description": "Medical job marketplace, help people finding their career in medical field",
+    "platform": "web",
+    "date": "2015-04-02",
+    "url": "http://www.jagamana.com",
+    "tools": [
+      "html 5",
+      "vanilla js",
+      "css",
+      "js libraries",
+      "php",
+      "code igniter framework",
+      "mysql"
+    ]
+  },
+  {
+    "project": 2,
+    "title": "Escape the Baluran",
+    "description": "Simple android game",
+    "platform": "android",
+    "date": "2015-07-12",
+    "url": "playstore",
+    "tools": [
+      "actionscript 3",
+      "adobe air",
+      "flash builder",
+      "starling",
+      "photoshop",
+      "illustrator"
+    ]
+  },
+  {
+    "project": 3,
+    "title": "Infogue",
+    "description": "Social public portal",
+    "platform": "web, android",
+    "date": "2016-04-02",
+    "url": "http://www.infogue.id",
+    "tools": [
+      "html 5",
+      "vanilla js",
+      "sass",
+      "gulp",
+      "compass",
+      "js libraries",
+      "php",
+      "java android",
+      "oauth",
+      "laravel",
+      "mysql"
+    ]
+  }
+]
