@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Overpopulation : Ketika bumi ini gak cukup buat manusia"
+date: 2016-05-29 8:46 PM
+categories: opinion
+---
+Beberapa bulan lalu aku liat BBC yang bahas tentang overpopulation, yah dibumi, tentang manusia, bukan hewan atau tumbuhan, dimana biasanya hewan atau tumbuhan dicegah agar tidak punah, tapi manusia malah sebaliknya. Kalian pernah lihat website [World O Meter] disana ada realtime data kelahiran dan kematian, coba lihat dan kalian akan kaget dengan angkanya. Jumlah kelahiran per hari sekitar 200 ribuan dan kematian 100 ribuan artinya setiap hari populasi di dunia bertambah 100 ribu jiwa, total populasi di bumi sudah mencapai 7,422,051,340 (7.4 Milyar) saat tulisan ini dibuat dan akan terus bertambah 100 ribu perhari. Aku gak tahu dimasa depan, tapi di acara BBC yang aku lihat kita saat ini memang mengalami krisis pengendalian populasi, banyak hal yang akan terjadi dimasa depan jika terus seperti ini. 
+
+Bumi ini seperti sebuah tambang yang punya batasan dalam memberikan resource untuk manusia, memang banyak resource yang direcycle oleh bumi misal fossil fuel, tapi apa waktu yang dibutuhkan untuk itu lebih cepat dari kebutuhan manusia untuk mengolahnya. Berapa kebutuhan untuk lapangan pekerjaan, lahan atau tanah untuk rumah mereka dengan mengorbankan area pertanian padahal itu juga dibutuhkan untuk menghasilkan makanan bagi manusia. Kemiskinan dan kelaparan akan terus meningkat, mungkin ini juga bisa jadi alasan untuk mencari Bumi ke 2 di luar angkasa sana. Berharap sebagian manusia dipindahkan dan diberdayakan lebih baik.
+
+Jumlah negara yang memiliki populasi tertinggi saat ini adalah China sekitar 1.4 Milyar. Indonesia berada di posisi no 4 dengan jumlah 250 Juta penduduk. Jumlah total manusia yang pernah hidup dibumi sejak tahun masehi dimulai sudah melebihi 10 Milyar, perkembangan paling pesat setelah tahun 1900 dimana manusia mulai berkembang dan meninggalkan perang. Manusia berkembang mencapai lebih dari 600% dari total 2 Milyar menjadi 12 Milyar jiwa, dan kematian sejumlah 4.6 Milyar jiwa sehingga saat ini menjadi 7,4 Milyar seperti yang sudah tak sebutkan di atas. Menurut kalian apa yang harus kita lakukan? aku ndak bahas tentang solusi pemerintah tapi orang - orang yang concern dengan masalah ini, misalkan program dari sebuah lembaga yang mereka sebut [World Balance], kalian bisa buka webnya, mereka punya target di tahun 2100 membuat populasi di bumi turun menjadi 3 Milyar, tapi gimana caranya?
+
+ 1. Create and implement a national and ultimately global media Overpopulation Awareness campaign.
+ 2. Endow a Sustainable Population Leadership program.
+ 3. Host Solving Overpopulation conferences featuring experts on resources.
+ 4. Establish a think tank focused on humanely solving overpopulation.
+ 
+ Intinya mereka melakukan sosialisasi dan mengkampanyekan kesadaran akan krisis pengendalian populasi, membentuk kesatuan yang dipimpin oleh pemimpin yang tegas yang dapat membuat kebijakan tentang kelahiran, mencari solusi pengendalian resource bumi dan fokus untuk mensejahterahkan masyarakat saat ini, tentu saja semua solusi yang ada harus manusiawi bukan melakukan [Genosida], kita gak bisa berbuat apa - apa kepada manusia yang sudah terlanjur hidup. Katakanlah harus mengurangi populasi 1 juta jiwa, bagaimana kita memilih manusia yang harus hidup atau yang harus mati? tidak bisa, kita hidup di zaman satu nyawa itu sangat berharga.
+ 
+ Kita tidak bisa mengambil nyawa orang seenaknya, kita manusia adalah makhluk yang beradab bukan makhluk yang biadab. kita sebagai manusia memang egois, berpikir kalo kelahiran satu saja tidak masalah untuk keluarga kita sendiri tapi semua manusia di Bumi juga melakukan dan berpikir hal yang sama. Inget gak sih ketika kalian datang ke nikahan orang, terus mereka bilang "ayo cepet bikin dedek kecil yang banyak", bagaimana para wanita mengidamkan punya anak yang awalnya mereka anggap itu sebuah "achievement", pencapaian seperti piala. Kita tahu konsekuensinya tapi tidak mau tahu bagaimana membuat solusinya. Kita lihat lagi tabel data dibawah ini dan perkembangan 25 tahun terakhir yang aku ambil dari website World O Meters.
+ 
+ Apa yang akan kalian lakukan dimasa akan datang, tidak meneruskan keturunan kah? rasanya gak mungkin juga kan. Aku yakin dengan kebijakan dari pemerintah dunia maka akan mampu untuk menyelamatkan krisis ini. Di Indonesia sendiri ada program KB bukan dan anjuran pemerintah 2 anak lebih baik, dengan menekan angka kelahiran, Indonesia dapat memperbaiki banyak sektor, tapi mungkin kita juga takut akan kurangnya sumber daya manusia yang bertalenta. Well, ini bentuk campaign dari aku tentang kesadaran krisis pengendalian populasi, semoga tulisan ini bermanfaat... semangat..ayo nikah, bikin dedek yang banyak 2 cukup atau 1 aja :).
+ 
+ [World Balance]: http://www.worldpopulationbalance.org/articles/our-vision-solve-overpopulation
+ [Genosida]: https://id.wikipedia.org/wiki/Genosida
+ [World O Meter]: http://www.worldometers.info/world-population/
